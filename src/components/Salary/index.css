@@ -1,0 +1,21 @@
+.label1 {
+  font-family: 'Roboto';
+  font-size: 11px;
+  color: #f1f5f9;
+  margin-left: 10px;
+  align-self: center;
+}
+
+.labelCon1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.checkBox1 {
+  border-width: 0px;
+}
+
+.liss1 {
+  margin-bottom: 18px;
+}

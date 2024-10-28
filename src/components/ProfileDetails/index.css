@@ -1,0 +1,69 @@
+.pfbg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 15px;
+  border-radius: 10px;
+  width: 15vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.pfIm {
+  width: 23%;
+}
+
+.pfName {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #6366f1;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+.pfPara {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #121212;
+  font-weight: normal;
+}
+
+.load {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.retryButt {
+  background-color: #4f46e5;
+  border-width: 0px;
+  padding: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 13px;
+  width: 60%;
+  font-weight: 600;
+  border-radius: 3px;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+  height: 30vh;
+  align-items: center;
+  width: 15vw;
+}
+
+.mainCon {
+  height: 100vh;
+}
+
+.hr1 {
+  width: 100%;
+  border: 1.5px solid #cbd5e1;
+  margin-top: 0px;
+}
